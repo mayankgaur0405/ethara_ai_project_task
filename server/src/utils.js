@@ -11,6 +11,8 @@ export function isAdmin(user) {
   return user?.role === "ADMIN";
 }
 
+//
+
 export function getInitials(name) {
   return name
     .split(" ")
