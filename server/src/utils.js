@@ -10,7 +10,7 @@ export function pickUser(user) {
 export function isAdmin(user) {
   return user?.role === "ADMIN";
 }
-
+//
 //
 
 export function getInitials(name) {
