@@ -1,0 +1,7 @@
+npm error Lifecycle script `dev` failed with error:
+npm error code 1073807364
+npm error path F:\Mayank\PROJECTS\after_learning\ethara_ai_project\client
+npm error workspace client
+npm error location F:\Mayank\PROJECTS\after_learning\ethara_ai_project\client
+npm error command failed
+npm error command C:\WINDOWS\system32\cmd.exe /d /s /c vite --host 127.0.0.1

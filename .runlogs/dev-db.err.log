@@ -1,0 +1,7 @@
+npm error Lifecycle script `dev:db` failed with error:
+npm error code 1073807364
+npm error path F:\Mayank\PROJECTS\after_learning\ethara_ai_project\server
+npm error workspace server
+npm error location F:\Mayank\PROJECTS\after_learning\ethara_ai_project\server
+npm error command failed
+npm error command C:\WINDOWS\system32\cmd.exe /d /s /c node src/dev-mongo.js
