@@ -1115,7 +1115,7 @@ function AuthPage() {
           {mode === "signup" ? (
             <label>
               Full Name
-              <input value={form.name} onChange={(e) => setForm({ ...form, name: e.target.value })} placeholder="Mayank Gaur" />
+              <input value={form.name} onChange={(e) => setForm({ ...form, name: e.target.value })} placeholder="Enter your Name" />
             </label>
           ) : null}
 
