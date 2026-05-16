@@ -38,7 +38,7 @@ export async function seedDatabase() {
   const hash = await bcrypt.hash(password, 10);
 
   const admin = await upsertUser({
-    name: "Mayank Admin",
+    name: "Neha Admin",
     email: adminEmail,
     role: "ADMIN",
     passwordHash: hash
